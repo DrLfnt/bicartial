@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<clm>
+	<clmobject>
+		<objectid>11</objectid>
+		<objecttext>Bicarial</objecttext>
+		<objecttype>1</objecttype>
+		<prod_snr>00000000-0000-0000-0000-000000000000</prod_snr>
+		<sort>1</sort>
+		<slidefilename>index.html</slidefilename>
+	</clmobject>
+</clm>
